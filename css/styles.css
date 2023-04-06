@@ -688,7 +688,6 @@ transform: translateY(0);
         display: block;
         width: 360px;
         height: 40px;
-        margin-top: 4px;
         border: 1px solid rgba(46, 47, 66, 0.4);
         border-radius: 4px;
         padding-left: 38px;
@@ -773,6 +772,7 @@ transform: translateY(0);
     .input-wrap {
         display: flex;
         position: relative;
+        margin-top: 4px;
     }
 
     /* .modal-accept::before {
